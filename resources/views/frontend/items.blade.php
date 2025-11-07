@@ -10,7 +10,7 @@
         <div class="text-left , col-md-5">
             <h5 class="fw-bold mb-2" style="font-size: 1.9rem; font-family: 'Poppins'; color: #000000;">
                 <span style="font-family: AKbalthom Superhero">NPIT</span>
-                <em style="font-size:0.8rem">SHOP</em>
+                <em style="font-size:0.8rem">FOOD COURT</em>
                 </span>
             </h5>
             <p class="text-secondary" style="font-size: 1rem; font-family: 'Quicksand', sans-serif;">
